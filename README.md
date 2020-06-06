@@ -5,6 +5,6 @@ Ex.:
 
 
 ```
-Eu nasci em segunda-feira, 7 de setembro de 1981.
-Aniversário de 18 anos em terça-feira, 7 de setembro de 1999.
+Eu nasci em quarta-feira, 5 de novembro de 1986
+Aniversário de 18 anos em sexta-feira, 5 de novembro de 2004
 ```
